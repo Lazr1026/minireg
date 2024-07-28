@@ -3,3 +3,5 @@ Minireg is a voltage regulator for the Wii U, supporting 1S lithium battery setu
 It is based of YveltalGriffins bistro regulator board which you can find [here](https://github.com/mackieks/bistro).
 
 It is intended to be used with the WUP-50, however it should also work on the previous board revisions (WUP-01 to WUP-40).
+
+[BOM](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=c76b1d7a55)
